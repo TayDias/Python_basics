@@ -7,7 +7,7 @@
 - **Python** versão 3 ou superior;
 
 
-# Referências
+## Referências
 
 Code Runner:
 https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
